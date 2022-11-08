@@ -1,4 +1,4 @@
-import logo from './pngegg.png'
+import logo from './logo.png'
 import search from './search.png'
 import styles from './Cabecalho.module.scss'
 
